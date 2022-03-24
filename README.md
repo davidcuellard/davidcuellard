@@ -5,6 +5,9 @@
 - 🥅 2022 Goals: Improve english skills and learn Blockchain Development in depth.
 - ⚡ Fun fact: I love to learn about fintech and blockchain
 
+## Portfolio
+https://davidcuellard.github.io/davidCuellar-portfolio/
+
 ### Connect with me:
 [<img align="left" alt="David Cuellar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
