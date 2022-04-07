@@ -3,12 +3,12 @@
 ## I'm a Frontend Developer / Electronic Engineer
 - 🔭 I'm focused on React JS
 - 🥅 2022 Goals: Improve english skills and learn Blockchain Development in depth.
-- ⚡ Fun fact: I love to learn about fintech and blockchain
+- ⚡ Fun fact: I love to learn about coffee and wine
 
 ## Portfolio
 https://davidcuellard.github.io/davidCuellar-portfolio/
 
-### Connect with me:
+### Connect me:
 [<img align="left" alt="David Cuellar | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
