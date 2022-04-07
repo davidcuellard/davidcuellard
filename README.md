@@ -9,7 +9,7 @@
 https://davidcuellard.github.io/davidCuellar-portfolio/
 
 ### Connect with me:
-[<img align="left" alt="David Cuellar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="David Cuellar | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
 
