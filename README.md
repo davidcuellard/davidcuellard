@@ -1,6 +1,6 @@
 ### Hi there, I'm David 👋
 
-## I'm a Frontend Developer / Electronic Engineer
+## I'm React Frontend Developer / Electronic Engineer
 - 🔭 I'm focused on React JS
 - 🥅 2022 Goals: Improve english skills and learn Blockchain Development in depth.
 - ⚡ Fun fact: I love to learn about coffee and wine
