@@ -10,7 +10,7 @@ https://davidcuellard.github.io/davidCuellar-portfolio/
 
 ### Connect me:
 [<img align="left" alt="David Cuellar | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="David Cuellar | ORCID" width="22px" src="[https://cdn-icons-png.flaticon.com/512/174/174857.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png)" />][ORCID]
+[<img align="left" alt="David Cuellar | ORCID" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" />][ORCID]
 
 <br />
 
