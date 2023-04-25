@@ -1,8 +1,8 @@
 ### Hi there, I'm David 👋
 
-## I'm Software Developer / React Frontend Developer / Electronic Engineer
+## I'm Electronic Engineer / Software Developer / React Frontend Developer 
 - 🔭 I'm focused on React JS and Python
-- 🥅 2023 Goals: Improve Blockchain Development in depth.
+- 🥅 2023 Goals: Improve Blockchain Development and Computer Vision techniques in depth.
 - ⚡ Fun fact: I love to learn about coffee and wine.
 
 ## Portfolio
