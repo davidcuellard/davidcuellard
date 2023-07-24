@@ -1,6 +1,6 @@
 ## Hi there, I'm David 👋
 
-## I'm Electronic Engineer / Software Developer / React Frontend Developer 
+## I'm Electronic Engineer / Software Developer / Web3 Developer 
 ## Pursuing my MSc. in Data Science and Artificial Intelligence 🇬🇧
 
 - 🔭 I'm focused on Solidity, Python and React JS
