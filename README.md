@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to learn about coffee and wine.
 
 ## Portfolio
-https://davidcuellard-portfolio.netlify.app
+https://davidcuellard.netlify.app
 
 ### Connect me:
 [<img align="left" alt="David Cuellar | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
