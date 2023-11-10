@@ -1,7 +1,8 @@
 ## Hi there, I'm David 👋
 
-## I'm Electronic Engineer / Software Developer / Web3 Developer 
-## Pursuing my MSc. in Data Science and Artificial Intelligence 🇬🇧
+## I'm MSc. in Data Science and Artificial Intelligence & BSc. in Electronic Engineering
+### Focused in Web3 / Blockchain / Crypto / AI / Data Science  
+
 
 - 🔭 I'm focused on Solidity, Python and React JS
 - 🥅 2023 Goals: Improve Blockchain Development and Software engineering techniques in depth.
