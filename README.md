@@ -1,12 +1,12 @@
 ## Hi there, I'm David 👋
 
 ## I'm MSc. in Data Science and Artificial Intelligence & BSc. in Electronic Engineering
-### Focused in Web3 / Blockchain / Crypto / AI / Data Science  
+### Focused in AI Enginering / Data Science / Web3 & Blockchain Enthusiast
 
 
-- 🔭 I'm focused on Solidity, Python and React JS
-- 🥅 2023 Goals: Improve Blockchain Development and Software engineering techniques in depth.
-- ⚡ Fun fact: I love to learn about coffee and wine.
+- 🔭 I'm focused on Python, Rust, Solidity and React JS
+- 🥅 2024 Goals: Improve AI and Data Science techniques in depth.
+- ⚡ Fun fact: I love to learn about web3, coffee and wine.
 
 ## Portfolio
 https://davidcuellard.netlify.app
@@ -20,7 +20,6 @@ https://davidcuellard.netlify.app
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
