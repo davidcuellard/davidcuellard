@@ -1,34 +1,66 @@
-## Hi there, I'm David 👋
+# 👋 Hi there, I'm David Cuéllar  
 
-## I'm MSc. in Data Science and Artificial Intelligence & BSc. in Electronic Engineering
-### Focused in AI Enginering / Data Science / Web3 & Blockchain Enthusiast
+### 🎓 MSc in Data Science & Artificial Intelligence | BSc in Electronic Engineering  
+**AI-Focused Full-Stack Engineer | Blockchain Innovator | Builder at 0→1**
 
+---
 
-- 🔭 I'm focused on Python, Rust, Solidity and React JS
-- 🥅 2024 Goals: Improve AI and Data Science techniques in depth.
-- ⚡ Fun fact: I love to learn about web3, coffee and wine.
+## 🚀 About Me  
+I’m a **full-stack engineer** passionate about building intelligent, scalable systems that blend **AI, data, and Web3**. With an **MSc in AI & Data Science**, I work across the stack:  
 
-## Portfolio
-https://davidcuellard.netlify.app
+- **Frontend:** Next.js / Expo / React Native  
+- **Backend:** NestJS / Prisma / PostgreSQL / FastAPI  
+- **AI/ML:** LLM apps, RAG pipelines, agentic workflows (LangChain/LangGraph), evaluation frameworks, observability  
+- **Blockchain:** Rust & Solidity | NFT marketplaces, DeFi apps, smart contracts on Ethereum, Solana, Polygon  
 
-### Connect me:
-[<img align="left" alt="David Cuellar | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="David Cuellar | ORCID" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" />][ORCID]
+💡 I thrive in the **0→1 stage**: architecting products, iterating fast, and shipping features that make AI feel useful and alive.  
 
-<br />
+---
 
-### Languages and Tools:
+## 🎯 Current Focus  
+- 🧠 Expanding AI engineering skills → RAG, vector DBs, agentic systems, LangChain, Vercel AI SDK  
+- 📊 Building **BlockBotics.xyz**, an algorithmic/quant trading platform with AI explanations  
+- 🤝 Growing **Easi.club**, an AI-powered creator–brand collaboration platform  
+- ⚡ Exploring the intersection of **AI, Web3, and data-driven systems**  
 
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
-<img align="left" alt="Solidity" width="26px" src="https://metana.io/wp-content/uploads/2023/08/Solidity-Logo.wine_-1024x683.png" />
-<img align="left" alt="Rust" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/rust-programming-language-icon.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="ReactJs" width="26px" src="https://dac.digital/wp-content/uploads/2023/11/react-logo-optimized.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+---
 
-[linkedin]: https://www.linkedin.com/in/davidcuellard/
-[ORCID]: https://orcid.org/0000-0001-9773-899X
+## ☕ Fun Facts  
+- I love **coffee and wine** 🍷  
+- I enjoy mentoring and **explaining deep tech clearly**  
+- Passionate about creating things that **combine impact + beauty + intelligence**  
+
+---
+
+## 🌐 Portfolio  
+👉 [davidcuellard.netlify.app](https://davidcuellard.netlify.app)  
+
+---
+
+## 🔗 Connect with Me  
+[<img align="left" alt="David Cuellar | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]  
+[<img align="left" alt="David Cuellar | ORCID" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />][ORCID]  
+
+<br/>
+
+[linkedin]: https://www.linkedin.com/in/davidcuellard/  
+[ORCID]: https://orcid.org/0000-0001-9773-899X  
+
+---
+
+## 🛠️ Languages & Tools  
+
+<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />  
+<img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />  
+<img align="left" alt="Rust" width="30px" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" />  
+<img align="left" alt="Solidity" width="30px" src="https://cryptologos.cc/logos/solidity-solidity-logo.png" />  
+<img align="left" alt="Next.js" width="30px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />  
+<img align="left" alt="React" width="30px" src="https://reactnative.dev/img/header_logo.svg" />  
+<img align="left" alt="PostgreSQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />  
+<img align="left" alt="MongoDB" width="30px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />  
+<img align="left" alt="Docker" width="30px" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" />  
+<img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />  
+
+<br/><br/>
+
+---
